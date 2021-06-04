@@ -1,0 +1,56 @@
+table, th, tr, td {
+    text-align: right;
+  }
+  table {
+    border: 1px solid black;
+  }
+.one{
+    font-weight: 5px;
+    font-size: 10px;
+    text-align: right;
+}
+
+.two{
+    
+    font-size: 100px;
+    font-weight: bolder;
+}
+.three{
+    font-family:Pacifico;
+    font-size: 20px;
+}
+.four{
+    
+    font-size: 20px;
+    text-align:center;
+   
+}
+.five{
+    
+    font-size: 10px;
+    text-align: justify;
+    width: 300px;
+
+    
+}
+.six{   
+    
+    font-size: 13px;
+    font-weight: bold;
+    text-align: center;
+
+}
+.image1{
+    width: 500px;
+}
+.seven{
+    
+    font-size: 10px;
+    text-align: justify;
+    width: 200px;
+
+    
+}
+.pageno{
+    font-size: 20px;
+}
